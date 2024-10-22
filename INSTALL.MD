@@ -1,0 +1,1 @@
+Simple HTML project, nothing complex required to install or getting started
