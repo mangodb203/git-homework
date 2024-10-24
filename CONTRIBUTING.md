@@ -2,7 +2,7 @@
 
 We appreciate your interest in contributing to the [Mangodb Git Homework](https://github.com/mangodb203/git-homework) repository! Before proceeding with any significant changes, kindly reach out to the repository owners to discuss your ideas. You can do this through an issue, email, or any other communication channel.
 
-Please remember to follow our [Code of Conduct](link_to_code_of_conduct) during all your interactions with the project.
+Please remember to follow our [Code of Conduct](https://github.com/mangodb203/git-homework/blob/main/CODE-OF-CONDUCT.md) during all your interactions with the project.
 
 ### Pull Request Process
 - Ensure that any install or build dependencies are cleaned up after the build process is completed.
